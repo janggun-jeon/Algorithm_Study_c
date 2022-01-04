@@ -20,7 +20,17 @@
       "ProjectGuid": "12c8bf35-1155-48f0-934c-81ce3a48d62a",
       "DisplayName": "Solution Items",
       "ColorIndex": 3
+    },
+    "550daf23-50a7-4d6f-93b5-7083465fac31": {
+      "ProjectGuid": "550daf23-50a7-4d6f-93b5-7083465fac31",
+      "DisplayName": "Q4",
+      "ColorIndex": 4
+    },
+    "af12d96f-ca7c-40b7-a35b-b4d023af94a2": {
+      "ProjectGuid": "af12d96f-ca7c-40b7-a35b-b4d023af94a2",
+      "DisplayName": "Q5",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }
