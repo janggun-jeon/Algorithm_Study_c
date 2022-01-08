@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\man88\source\repos\Algorithm_Study_c\Q9\main.c(158,3): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\man88\source\repos\Algorithm_Study_c\Q9\main.c(74): warning C4716: 'Clear': 값을 반환해야 합니다.
+  Q9.vcxproj -> C:\Users\man88\source\repos\Algorithm_Study_c\x64\Debug\Q9.exe

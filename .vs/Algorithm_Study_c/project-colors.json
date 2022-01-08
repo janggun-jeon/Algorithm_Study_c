@@ -45,7 +45,17 @@
       "ProjectGuid": "746caec4-b482-411b-8d91-02edd10cbc4b",
       "DisplayName": "Q8",
       "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "68b5b644-895b-48f2-9e13-1b14f8f43847": {
+      "ProjectGuid": "68b5b644-895b-48f2-9e13-1b14f8f43847",
+      "DisplayName": "Q9",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 10
 }

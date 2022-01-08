@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\man88\source\repos\Algorithm_Study_c\Q10\main.c(11,3): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+  que.c
+C:\Users\man88\source\repos\Algorithm_Study_c\Q10\que.c(76,19): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  코드를 생성하고 있습니다...
+  Q10.vcxproj -> C:\Users\man88\source\repos\Algorithm_Study_c\x64\Debug\Q10.exe
