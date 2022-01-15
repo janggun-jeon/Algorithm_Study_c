@@ -25,4 +25,4 @@ int Search(INtStack* s, int x);
 void Print(INtStack* s);
 void Terminate(INtStack* s);
 
-#endif // !___INTStack
+#endif
