@@ -9,10 +9,10 @@
 int bubble(int a[], int n) {
 	int i, j, k;
 	int change = 0;
-	for  (i = 0; i < n - 1; i++) {
+	for (i = 0; i < n - 1; i++) {
 		printf("패스%d :\n", i + 1);
 
-		for (j = n - 1;j > i ; j--) {
+		for (j = n - 1; j > i; j--) {
 
 			for (k = 0; k < j - 1; k++) {
 				printf("%d", a[k]);
@@ -30,15 +30,13 @@ int bubble(int a[], int n) {
 
 			for (k = j + 1; k < n; k++) {
 				printf("%3s", "");
-				printf("%d", a[k]);	
+				printf("%d", a[k]);
 			}
 			putchar('\n');
 		}
 	}
 	return change;
 }
-
-
 
 void main() {
 	int i, nx, cng;
@@ -55,7 +53,7 @@ void main() {
 	cng = bubble(x, nx);
 
 	printf("오름차순으로 정렬");
-	for  (i = 0; i < nx; i++) {
+	for (i = 0; i < nx; i++) {
 		printf("\nx[%d] = %d", i, x[i]);
 	}
 

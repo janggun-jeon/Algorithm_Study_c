@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\man88\source\repos\Algorithm_Study_c\Q20\main.c(54,26): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const int *'입니다.
+C:\Users\man88\source\repos\Algorithm_Study_c\Q20\main.c(55,26): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const int *'입니다.
+  Q20.vcxproj -> C:\Users\man88\source\repos\Algorithm_Study_c\x64\Debug\Q20.exe
