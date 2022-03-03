@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\man88\source\repos\Algorithm_Study_c\Q22\main.c(102,8): warning C4013: 'Prev'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Q22.vcxproj -> C:\Users\man88\source\repos\Algorithm_Study_c\x64\Debug\Q22.exe
